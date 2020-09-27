@@ -4878,3 +4878,119 @@ Script Stack (0 frames):
 [2020.09.27-22.21.19:913][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
 [2020.09.27-22.21.20:181][ 96]LogSavePackage: Moving '../../../../../Unreal Projects/TECHNICOLOR/Saved/TopDownExampleMapDBF69AA0457E3D2A03E4D79F5BC73BD7.tmp' to '../../../../../Unreal Projects/TECHNICOLOR/Content/TopDownBP/Maps/TopDownExampleMap.umap'
 [2020.09.27-22.21.20:213][ 96]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.342
+[2020.09.27-22.34.39:012][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.27-22.35.12:581][921]BlueprintLog: New page: Compile Pedistal
+[2020.09.27-22.35.12:793][921]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.09.27-22.35.13:354][982]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.27-22.35.13:414][982]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.09.27-22.35.13:414][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.27-22.35.13:414][982]PIE: New page: PIE session: TopDownExampleMap (Sep 27, 2020, 12:35:13 PM)
+[2020.09.27-22.35.13:415][982]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.09.27-22.35.13:427][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012347s)
+[2020.09.27-22.35.13:428][982]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.09.27-22.35.13:428][982]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2020.09.27-22.35.13:428][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.013574s)
+[2020.09.27-22.35.13:473][982]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.09.27-22.35.13:531][982]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.09.27-22.35.13:568][982]LogInit: FAudioDevice initialized.
+[2020.09.27-22.35.13:577][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.27-22.35.13:606][982]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.09.27-22.35.13:610][982]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.09.27-17.35.13
+[2020.09.27-22.35.13:611][982]LogWorld: Bringing up level for play took: 0.003601
+[2020.09.27-22.35.13:623][982]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.09.27-22.35.13:624][982]LogBlueprintUserMessages: [ItemSpawn_3] Cast Sucessful
+[2020.09.27-22.35.13:624][982]LogBlueprintUserMessages: [TomeBlueprint_2] Successfully Assigned Sprite toTomeBlueprint
+[2020.09.27-22.35.13:624][982]LogBlueprintUserMessages: [TomeBlueprint_2] Tilting happening
+[2020.09.27-22.35.13:624][982]LogBlueprintUserMessages: [TomeBlueprint_2] TomeBlueprint
+[2020.09.27-22.35.13:624][982]LogBlueprintUserMessages: [TopDownCharacter] StoryWall_2
+[2020.09.27-22.35.13:626][982]LogBlueprintUserMessages: [TopDownCharacter] MIDIDeviceController_87
+[2020.09.27-22.35.13:626][982]LogBlueprintUserMessages: [TopDownExampleMap_C_13] Launchpad Mini
+[2020.09.27-22.35.13:626][982]LogBlueprintUserMessages: [TopDownExampleMap_C_13] 1
+[2020.09.27-22.35.13:626][982]LogBlueprintUserMessages: [TopDownExampleMap_C_13] There is no tome here
+[2020.09.27-22.35.13:626][982]LogBlueprintUserMessages: [TopDownExampleMap_C_13] There is no tome here
+[2020.09.27-22.35.13:626][982]LogBlueprintUserMessages: [TopDownExampleMap_C_13] There is no tome here
+[2020.09.27-22.35.13:626][982]LogBlueprintUserMessages: [TopDownExampleMap_C_13] There is no tome here
+[2020.09.27-22.35.13:628][982]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.323
+[2020.09.27-22.35.13:628][982]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.09.27-22.35.15:372][190]LogBlueprintUserMessages: [TopDownCharacter] In Char Entered
+[2020.09.27-22.35.16:071][274]LogBlueprintUserMessages: [Sequencer_2] In Blue
+[2020.09.27-22.35.16:338][306]LogBlueprintUserMessages: [Sequencer_2] In Red
+[2020.09.27-22.35.16:604][338]LogBlueprintUserMessages: [Sequencer_2] In Green
+[2020.09.27-22.35.17:830][485]LogBlueprintUserMessages: [Sequencer_2] In Yellow
+[2020.09.27-22.35.18:247][535]LogBlueprintUserMessages: [Sequencer_2] In Yellow
+[2020.09.27-22.35.20:239][770]LogBlueprintUserMessages: [Sequencer_2] 1
+[2020.09.27-22.35.20:239][770]LogBlueprintUserMessages: [Sequencer_2] 12
+[2020.09.27-22.35.20:239][770]LogBlueprintUserMessages: [Sequencer_2] 123
+[2020.09.27-22.35.20:239][770]LogBlueprintUserMessages: [Sequencer_2] 1234
+[2020.09.27-22.35.20:239][770]LogBlueprintUserMessages: [Sequencer_2] 12344
+[2020.09.27-22.35.20:239][770]LogBlueprintUserMessages: [Sequencer_2] 12344
+[2020.09.27-22.35.20:240][770]LogBlueprintUserMessages: [Sequencer_2] Found Code
+[2020.09.27-22.35.25:869][445]LogNet: Browse: /Game/TopDownBP/Maps/TomeLevelTest
+[2020.09.27-22.35.25:869][445]LogLoad: LoadMap: /Game/TopDownBP/Maps/TomeLevelTest
+[2020.09.27-22.35.25:869][445]LogBlueprintUserMessages: [TopDownCharacter] Exited
+[2020.09.27-22.35.25:909][445]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.09.27-22.35.25:915][445]LogAIModule: Creating AISystem for world TomeLevelTest
+[2020.09.27-22.35.25:915][445]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.09.27-22.35.25:917][445]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TomeLevelTest.TomeLevelTest up for play (max tick rate 0) at 2020.09.27-17.35.25
+[2020.09.27-22.35.25:917][445]LogWorld: Bringing up level for play took: 0.001560
+[2020.09.27-22.35.25:918][445]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.09.27-22.35.25:919][445]LogBlueprintUserMessages: [SpawnTomeOtherLevel_2] T_Curisoity_C
+[2020.09.27-22.35.25:919][445]LogBlueprintUserMessages: [T_Curisoity_C_0] Successfully Assigned Sprite toT_Curisoity
+[2020.09.27-22.35.25:919][445]LogBlueprintUserMessages: [T_Curisoity_C_0] Tilting happening
+[2020.09.27-22.35.25:919][445]LogBlueprintUserMessages: [T_Curisoity_C_0] T_Curisoity
+[2020.09.27-22.35.25:920][445]LogBlueprintUserMessages: [T_Curisoity_C_0] Can Interact with
+[2020.09.27-22.35.25:920][445]LogBlueprintUserMessages: [SpawnTomeOtherLevel_2] Yes its Valid
+[2020.09.27-22.35.25:920][445]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter'!
+[2020.09.27-22.35.25:920][445]LogBlueprintUserMessages: [TopDownCharacter_C_0] None
+[2020.09.27-22.35.25:920][445]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 0 in '/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter'!
+[2020.09.27-22.35.25:921][445]LogBlueprintUserMessages: [TopDownCharacter_C_0] MIDIDeviceController_88
+[2020.09.27-22.35.25:921][445]LogLoad: Took 0.052261 seconds to LoadMap(/Game/TopDownBP/Maps/TomeLevelTest)
+[2020.09.27-22.35.26:872][559]LogBlueprintUserMessages: [T_Curisoity_C_0] In Item Range
+[2020.09.27-22.35.27:414][624]LogBlueprintUserMessages: [TopDownCharacter_C_0] You have picked up the T_Curisoity 
+[2020.09.27-22.35.27:414][624]LogBlueprintUserMessages: [T_Curisoity_C_0] Exitted Item Range
+[2020.09.27-22.35.27:415][624]LogBlueprintUserMessages: [TopDownCharacter_C_0] Succesfully added in Item
+[2020.09.27-22.35.28:548][760]LogBlueprintUserMessages: [SpawnTomeOtherLevel_2] Tome picked up
+[2020.09.27-22.35.28:557][761]LogNet: Browse: /Game/TopDownBP/Maps/TopDownExampleMap
+[2020.09.27-22.35.28:557][761]LogLoad: LoadMap: /Game/TopDownBP/Maps/TopDownExampleMap
+[2020.09.27-22.35.28:596][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.09.27-22.35.28:597][761]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.09.27-22.35.28:608][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011261s)
+[2020.09.27-22.35.28:609][761]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.09.27-22.35.28:609][761]LogPlayLevel: PIE: World Init took: (0.000581s)
+[2020.09.27-22.35.28:609][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012265s)
+[2020.09.27-22.35.28:609][761]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.09.27-22.35.28:623][761]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.09.27-17.35.28
+[2020.09.27-22.35.28:624][761]LogWorld: Bringing up level for play took: 0.013496
+[2020.09.27-22.35.28:624][761]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.09.27-22.35.28:624][761]LogBlueprintUserMessages: [ItemSpawn_3] Cast Sucessful
+[2020.09.27-22.35.28:624][761]LogBlueprintUserMessages: [TomeBlueprint_2] Successfully Assigned Sprite toTomeBlueprint
+[2020.09.27-22.35.28:625][761]LogBlueprintUserMessages: [TomeBlueprint_2] Tilting happening
+[2020.09.27-22.35.28:625][761]LogBlueprintUserMessages: [TomeBlueprint_2] TomeBlueprint
+[2020.09.27-22.35.28:625][761]LogBlueprintUserMessages: [TopDownCharacter] StoryWall_2
+[2020.09.27-22.35.28:626][761]LogBlueprintUserMessages: [TopDownCharacter] MIDIDeviceController_89
+[2020.09.27-22.35.28:626][761]LogBlueprintUserMessages: [TopDownExampleMap_C_13] Launchpad Mini
+[2020.09.27-22.35.28:626][761]LogBlueprintUserMessages: [TopDownExampleMap_C_13] 1
+[2020.09.27-22.35.28:627][761]LogBlueprintUserMessages: [P_Curiosity_C_0] P_Curiosity
+[2020.09.27-22.35.28:627][761]LogBlueprintUserMessages: [T_Curisoity_C_0] Successfully Assigned Sprite toT_Curisoity
+[2020.09.27-22.35.28:627][761]LogBlueprintUserMessages: [T_Curisoity_C_0] Tilting happening
+[2020.09.27-22.35.28:627][761]LogBlueprintUserMessages: [T_Curisoity_C_0] T_Curisoity
+[2020.09.27-22.35.28:628][761]LogBlueprintUserMessages: [TopDownExampleMap_C_13] There is no tome here
+[2020.09.27-22.35.28:628][761]LogBlueprintUserMessages: [TopDownExampleMap_C_13] There is no tome here
+[2020.09.27-22.35.28:628][761]LogBlueprintUserMessages: [TopDownExampleMap_C_13] There is no tome here
+[2020.09.27-22.35.28:628][761]LogLoad: Took 0.070913 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap)
+[2020.09.27-22.35.29:141][822]LogBlueprintUserMessages: [TomeBlueprint_2] In Item Range
+[2020.09.27-22.35.30:224][949]LogBlueprintUserMessages: [TomeBlueprint_2] Exitted Item Range
+[2020.09.27-22.35.53:376][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.09.27-22.35.53:462][733]LogSlate: Window 'TestCave Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.27-22.35.53:467][733]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.09.27-22.35.53:497][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.27-22.35.53:498][733]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.09.27-22.35.53:549][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.09.27-22.35.53:561][734]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2020.09.27-22.36.02:770][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.09.27-22.36.03:994][830]LogSlate: Window 'Save Content' being destroyed
+[2020.09.27-22.36.04:020][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Pedistals/Pedistal" FILE="../../../../../Unreal Projects/TECHNICOLOR/Content/TopDownBP/Blueprints/Pedistals/Pedistal.uasset" SILENT=true
+[2020.09.27-22.36.04:062][830]LogSavePackage: Moving '../../../../../Unreal Projects/TECHNICOLOR/Saved/Pedistal771CFA5143E821B707E55DABA45444EE.tmp' to '../../../../../Unreal Projects/TECHNICOLOR/Content/TopDownBP/Blueprints/Pedistals/Pedistal.uasset'
+[2020.09.27-22.36.04:102][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.09.27-22.36.04:361][830]LogSavePackage: Moving '../../../../../Unreal Projects/TECHNICOLOR/Saved/TopDownExampleMapBC93F30A47293005FA00C58079962A07.tmp' to '../../../../../Unreal Projects/TECHNICOLOR/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.09.27-22.36.04:391][830]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.325

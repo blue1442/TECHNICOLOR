@@ -8,6 +8,7 @@
 #Starter Content
 Content/StarterContent/*
 
+
 # Compiled Object files
 *.slo
 *.lo
@@ -47,6 +48,9 @@ Content/StarterContent/*
 *.sdf
 *.VC.db
 *.VC.opendb
+
+# Other files
+*.log
 
 # Precompiled Assets
 SourceArt/**/*.png
